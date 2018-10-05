@@ -1,6 +1,6 @@
 # flutter_app
 
-A new Flutter application.
+A new Flutter application for **Online Restaurant** App.
 
 ## Getting Started
 
